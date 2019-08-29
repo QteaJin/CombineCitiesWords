@@ -1,4 +1,4 @@
-Combine cities so that the next one starts with the last letter of the previous, like: Paris->Stockholm->Milan
+Combine cities so that the next one starts with the last letter of the previous, like: PariS->StockholM->Milan
 
 Your score is the number of letters of all cities in your list.
 
